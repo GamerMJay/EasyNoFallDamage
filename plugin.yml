@@ -1,0 +1,9 @@
+---
+name: EasyNoFallDamage
+author: GamerMJay
+version: "1.0.0"
+description: Disable fall damage
+api:
+- 4.0.0
+main: GamerMJay\EasyNoFallDamage\Main
+...
